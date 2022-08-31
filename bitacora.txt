@@ -1,0 +1,37 @@
+Instalación:
+
+    Env:
+        Link:    
+            github.com/joho/godotenv 
+        Comandos:
+            go get github.com/joho/godotenv
+
+    GORM:
+        Link:
+            https://gorm.io/index.html
+            https://gorm.io/docs/connecting_to_the_database.html
+        Comandos:
+            go get -u gorm.io/gorm
+            go get -u gorm.io/driver/sqlite
+
+
+    Fiber 
+        Link:   
+            https://docs.gofiber.io/
+
+        Comandos:
+            go get github.com/gofiber/fiber/v2
+
+    Swagger
+        Link:
+            https://github.com/gofiber/swagger
+
+        Comandos:
+            go get -u github.com/swaggo/swag/cmd/swag
+            go get -u github.com/gofiber/swagger
+
+    Air:
+        Link:    
+            https://github.com/cosmtrek/air        
+        Comandos:
+            https://github.com/cosmtrek/air
